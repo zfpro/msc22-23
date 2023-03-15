@@ -1,4 +1,4 @@
-# 101 - 1 - Pandas 101
+# 1 - Pandas 101
 
 
 # New concepts in this unit
