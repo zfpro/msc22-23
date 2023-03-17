@@ -1,7 +1,7 @@
 # 101 05 - Covariance and Correlation
 
 
-#### [Presentation](https://docs.google.com/presentation/d/1hdFdMuvb5D6k47UROpcno6H9k5uwtYzdFXGx2jQhu6c/edit#slide=id.ge611b411c1_2_103)
+#### [Presentation](https://docs.google.com/presentation/d/1zl6pBuj0c7JhDY8R-GraYzhmuFyP0c9A/edit?usp=sharing&ouid=111610860231019220582&rtpof=true&sd=true)
 
 # New concepts in this unit
 - Covariance
