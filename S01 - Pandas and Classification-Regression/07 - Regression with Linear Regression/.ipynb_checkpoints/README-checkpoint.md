@@ -1,4 +1,4 @@
-## Small Learning Unit 7 - Regression with Linear Regression
+## Unit 7 - Regression with Linear Regression
 
 
 #### [Presentation](https://docs.google.com/presentation/d/167B_5JPitY0QOFbi-r5RY9dc5EAU3HWu/edit?usp=share_link&ouid=111610860231019220582&rtpof=true&sd=true)
