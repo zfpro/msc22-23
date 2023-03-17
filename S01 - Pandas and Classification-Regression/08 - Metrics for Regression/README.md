@@ -1,4 +1,4 @@
-# Small Learning Unit 08 - Metrics for regression
+# Unit 08 - Metrics for regression
 
 
 #### [Presentation](https://docs.google.com/presentation/d/1LNlMiPEtkzuHV1EgT5bBUWQ_VhDowh_u/edit?usp=sharing&ouid=111610860231019220582&rtpof=true&sd=true)
