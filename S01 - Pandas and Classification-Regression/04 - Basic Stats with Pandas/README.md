@@ -1,6 +1,6 @@
 # 101 4 - Basic Stats with Pandas
 
-#### [Presentation](https://docs.google.com/presentation/d/1n-ncrdRzh0qhXIiuNuWePM41sPcO1jY1/edit)
+#### [Presentation](https://docs.google.com/presentation/d/1VEOZk_vPzU0p5Fks_UZfUIJ_YyEoMyUP/edit?usp=sharing&ouid=111610860231019220582&rtpof=true&sd=true)
 
 ## New concepts in this notebook
 - count, sum & cumsum
